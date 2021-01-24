@@ -1,0 +1,30 @@
+-- Misc
+
+rows -- 10
+columns -- 10
+#title -- Colours
+#note -- No note for this crossword. 
+#grid_font_size -- 10
+clues_font_size -- 14
+
+
+-- Clues 
+#amber
+#aqua
+black
+blue
+brown
+cyan
+gray
+green
+grey
+lime
+orange
+pink 
+purple
+red
+rose
+tan
+white
+yellow
+

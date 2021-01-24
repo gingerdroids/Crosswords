@@ -1,0 +1,22 @@
+-- Misc
+
+rows -- 9
+columns -- 9
+title -- Movies
+#note -- Look for "the" at the start of the movie name. 
+
+
+-- Clues 
+E T -- Spielberg. 
+Duel -- Early Spielberg. 
+Raiders of the Lost Arc  -- Harrison Ford. 
+Star Wars -- Episode IV. 
+The Wall -- Pink Floyd. 
+The Birds -- Hitchcock. 
+Let It Be -- The Beatles. 
+All About Eve -- Marilyn Monroe. 
+You've got Mail -- Internet-era romcom. 
+A Few Good Men -- 1992 Cruise Nicholson Moore. 
+
+
+
